@@ -1,3 +1,4 @@
+
 # Django #
 *.log
 *.pot
@@ -96,7 +97,8 @@ celerybeat-schedule.*
 # SageMath parsed files 
 *.sage.py 
 
-# Environments 
+# Environments
+.idea
 .env 
 .venv 
 env/ 
